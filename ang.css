@@ -1,0 +1,20 @@
+#container{
+	max-width: auto;
+	height: auto;
+	margin: auto;
+	background-color:;
+	padding: 10px;
+}
+
+h1{
+	font-size:54px;
+	background-color:;
+	text-align: center;
+	margin-top: 50px;
+
+}
+.header,.ligne{
+	border:1px #cecece;
+	background-color:#dedede; 
+	height: 200px;
+}
